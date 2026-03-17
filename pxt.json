@@ -6,7 +6,8 @@
         "radio": "*",
         "microphone": "*",
         "teleop": "github:goodtimes43w/teleop#master",
-        "Project": "github:goodtimes43w/project#master"
+        "Project": "github:goodtimes43w/project#master",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2"
     },
     "files": [
         "main.blocks",
