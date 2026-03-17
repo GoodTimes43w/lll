@@ -7,7 +7,7 @@
         "microphone": "*",
         "teleop": "github:goodtimes43w/teleop#master",
         "Project": "github:goodtimes43w/project#master",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2"
+        "maqueenPlusV2": "github:DFRobot/pxt-DFRobot_MaqueenPlus_v20"
     },
     "files": [
         "main.blocks",
